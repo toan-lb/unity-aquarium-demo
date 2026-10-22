@@ -1,0 +1,19 @@
+{
+    "name": "Aquarium.Composition",
+    "rootNamespace": "Aquarium.Composition",
+    "references": [
+        "Aquarium.Domain",
+        "Aquarium.Infrastructure",
+        "Aquarium.Presentation",
+        "Aquarium.Simulation"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

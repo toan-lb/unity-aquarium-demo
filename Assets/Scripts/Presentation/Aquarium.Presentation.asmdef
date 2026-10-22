@@ -1,0 +1,18 @@
+{
+    "name": "Aquarium.Presentation",
+    "rootNamespace": "Aquarium.Presentation",
+    "references": [
+        "Aquarium.Domain",
+        "Aquarium.Simulation",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Aquarium.Tests",
+    "rootNamespace": "Aquarium.Tests",
+    "references": [
+        "Aquarium.Domain",
+        "Aquarium.Presentation",
+        "Aquarium.Infrastructure",
+        "Aquarium.Simulation"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
